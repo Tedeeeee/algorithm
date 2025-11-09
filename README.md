@@ -16,6 +16,8 @@
   [BOJ 17389 - 보너스 점수](https://www.acmicpc.net/problem/17389)
 - <img src="https://static.solved.ac/tier_small/4.svg" width="13px" />&nbsp;
   [BOJ 2920 - 음계](https://www.acmicpc.net/problem/2920)
+- <img src="https://static.solved.ac/tier_small/2.svg" width="13px" />&nbsp;
+  [BOJ 10808 - 알파벳 갯수](https://www.acmicpc.net/problem/10808)
 
 ---
 
