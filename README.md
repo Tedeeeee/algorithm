@@ -6,15 +6,15 @@
 
 ## 🟢 구현
 
-- <img src="https://static.solved.ac/tier_small/2.svg" width="15px" />&nbsp;
+- <img src="https://static.solved.ac/tier_small/2.svg" width="13px" />&nbsp;
   [BOJ 2480 - 주사위 세 개](https://www.acmicpc.net/problem/2480)
-- <img src="https://static.solved.ac/tier_small/3.svg" width="15px" />&nbsp;
+- <img src="https://static.solved.ac/tier_small/3.svg" width="13px" />&nbsp;
   [BOJ 15953 - 상금 헌터](https://www.acmicpc.net/problem/15953)
-- <img src="https://static.solved.ac/tier_small/4.svg" width="15px" />&nbsp;
+- <img src="https://static.solved.ac/tier_small/4.svg" width="13px" />&nbsp;
   [BOJ 15969 - 행복](https://www.acmicpc.net/problem/15969) **(코드에 추가 설명있음)**
-- <img src="https://static.solved.ac/tier_small/4.svg" width="15px" />&nbsp;
+- <img src="https://static.solved.ac/tier_small/4.svg" width="13px" />&nbsp;
   [BOJ 17389 - 보너스 점수](https://www.acmicpc.net/problem/17389)
-- <img src="https://static.solved.ac/tier_small/4.svg" width="15px" />&nbsp;
+- <img src="https://static.solved.ac/tier_small/4.svg" width="13px" />&nbsp;
   [BOJ 2920 - 음계](https://www.acmicpc.net/problem/2920)
 
 ---
@@ -34,14 +34,16 @@
 >
 > 대표 문제 : [BOJ 2798 - 블랙잭](https://www.acmicpc.net/problem/2798)
 
-- <img src="https://static.solved.ac/tier_small/4.svg" width="15px" />&nbsp;
+- <img src="https://static.solved.ac/tier_small/4.svg" width="13px" />&nbsp;
   [BOJ 2798 - 블랙잭](https://www.acmicpc.net/problem/2798)
+- <img src="https://static.solved.ac/tier_small/5.svg" width="13px" />&nbsp;
+  [BOJ 2309 - 일곱 난쟁이](https://www.acmicpc.net/problem/2309)
 
 ---
 
 ## 🔵 순열
 
-- <img src="https://static.solved.ac/tier_small/4.svg" width="15px" />&nbsp;
+- <img src="https://static.solved.ac/tier_small/4.svg" width="13px" />&nbsp;
   [BOJ 10539 - 수빈이와 수열](https://www.acmicpc.net/problem/10539)
 
 ---
@@ -57,7 +59,7 @@
 > 
 > 대표 문제 : [BOJ 2747 - 피보나치 수](https://www.acmicpc.net/problem/2747)
 
-- <img src="https://static.solved.ac/tier_small/4.svg" width="15px" />&nbsp;
+- <img src="https://static.solved.ac/tier_small/4.svg" width="13px" />&nbsp;
   [BOJ 2747 - 피보나치 수](https://www.acmicpc.net/problem/2747)
 
 ---
