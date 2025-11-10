@@ -20,6 +20,8 @@
   [BOJ 10808 - 알파벳 갯수](https://www.acmicpc.net/problem/10808)
 - <img src="https://static.solved.ac/tier_small/5.svg" width="13px" />&nbsp;
   [BOJ 3035 - 스캐너](https://www.acmicpc.net/problem/3035)
+- <img src="https://static.solved.ac/tier_small/4.svg" width="13px" />&nbsp;
+  [BOJ 2979 - 트럭 주차](https://www.acmicpc.net/problem/2979)
 
 ---
 
