@@ -18,6 +18,8 @@
   [BOJ 2920 - 음계](https://www.acmicpc.net/problem/2920)
 - <img src="https://static.solved.ac/tier_small/2.svg" width="13px" />&nbsp;
   [BOJ 10808 - 알파벳 갯수](https://www.acmicpc.net/problem/10808)
+- <img src="https://static.solved.ac/tier_small/5.svg" width="13px" />&nbsp;
+  [BOJ 3035 - 스캐너](https://www.acmicpc.net/problem/3035)
 
 ---
 
