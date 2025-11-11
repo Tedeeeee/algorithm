@@ -28,6 +28,8 @@
   [BOJ 17269 - 이름궁합 테스트](https://www.acmicpc.net/problem/17269)
 - <img src="https://static.solved.ac/tier_small/3.svg" width="13px" />&nbsp;
   [BOJ 2953 - 나는 요리사다](https://www.acmicpc.net/problem/2953)
+- <img src="https://static.solved.ac/tier_small/3.svg" width="13px" />&nbsp;
+  [BOJ 1547 - 공](https://www.acmicpc.net/problem/1547)
 
 ---
 
