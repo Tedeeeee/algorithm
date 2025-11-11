@@ -24,6 +24,10 @@
   [BOJ 2979 - 트럭 주차](https://www.acmicpc.net/problem/2979)
 - <img src="https://static.solved.ac/tier_small/6.svg" width="13px" />&nbsp;
   [BOJ 17269 - 이름궁합 테스트](https://www.acmicpc.net/problem/17269)
+- <img src="https://static.solved.ac/tier_small/6.svg" width="13px" />&nbsp;
+  [BOJ 17269 - 이름궁합 테스트](https://www.acmicpc.net/problem/17269)
+- <img src="https://static.solved.ac/tier_small/3.svg" width="13px" />&nbsp;
+  [BOJ 2953 - 나는 요리사다](https://www.acmicpc.net/problem/2953)
 
 ---
 
