@@ -63,6 +63,8 @@
 
 - <img src="https://static.solved.ac/tier_small/4.svg" width="13px" />&nbsp;
   [BOJ 2750 - 수 정렬하기](https://www.acmicpc.net/problem/2750)
+- <img src="https://static.solved.ac/tier_small/6.svg" width="13px" />&nbsp;
+    [BOJ 2822 - 점수 계산](https://www.acmicpc.net/problem/2822)
 
 ## 🔵 순열
 
