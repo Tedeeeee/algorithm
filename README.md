@@ -41,6 +41,8 @@
   [BOJ 13300 - 방 배정](https://www.acmicpc.net/problem/13300)
 - <img src="https://static.solved.ac/tier_small/8.svg" width="13px" />&nbsp;
   [BOJ 3272 - 두 수의 합](https://www.acmicpc.net/problem/3272)
+- <img src="https://static.solved.ac/tier_small/4.svg" width="13px" />&nbsp;
+  [BOJ 2577 - 숫자의 개수](https://www.acmicpc.net/problem/2577)
 
 ---
 
