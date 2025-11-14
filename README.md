@@ -32,6 +32,8 @@
   [BOJ 1547 - 공](https://www.acmicpc.net/problem/1547)
 - <img src="https://static.solved.ac/tier_small/3.svg" width="13px" />&nbsp;
   [BOJ 5597 - 과제 안 내신 분..?](https://www.acmicpc.net/problem/5597)
+- <img src="https://static.solved.ac/tier_small/6.svg" width="13px" />&nbsp;
+  [BOJ 1652 - 누울 자리를 찾아라](https://www.acmicpc.net/problem/1652)
 
 ---
 
