@@ -36,6 +36,8 @@
   [BOJ 1652 - 누울 자리를 찾아라](https://www.acmicpc.net/problem/1652)
 - <img src="https://static.solved.ac/tier_small/5.svg" width="13px" />&nbsp;
   [BOJ 1110 - 더하기 사이클](https://www.acmicpc.net/problem/1110)
+- <img src="https://static.solved.ac/tier_small/5.svg" width="13px" />&nbsp;
+  [BOJ 2816 - 디지털 티비](https://www.acmicpc.net/problem/2816)
 
 ---
 
