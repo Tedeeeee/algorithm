@@ -31,7 +31,16 @@
 - <img src="https://static.solved.ac/tier_small/5.svg" width="13px" />&nbsp;
   [BOJ 2309 - 일곱 난쟁이](https://www.acmicpc.net/problem/2309)
 
-### 🔵 스택 / 큐
+---
+### 🔵 스택
+> 스택(Stack)은 **LIFO(Last-In First-Out)** 방식의 자료구조이다.  
+> 데이터를 위에서만 넣고(pop) 뺄 수 있으며,  
+> **괄호 검사, 되돌리기(Undo), DFS, 수식 계산** 등의 기본 원리로 사용된다.
+- <img src="https://static.solved.ac/tier_small/9.svg" width="13px" />&nbsp;
+  [BOJ 1874 - 스택 수열](https://www.acmicpc.net/problem/1874)
+
+---
+### 🔵 큐
 
 ---
 ### 🔵 해시 (Hash) / 딕셔너리
