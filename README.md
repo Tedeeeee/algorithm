@@ -61,6 +61,8 @@
   [BOJ 2822 - 점수 계산](https://www.acmicpc.net/problem/2822)
 - <img src="https://static.solved.ac/tier_small/6.svg" width="13px" />&nbsp;
   [BOJ 16435 - 스네이크 버드](https://www.acmicpc.net/problem/16435)
+- <img src="https://static.solved.ac/tier_small/8.svg" width="13px" />&nbsp;
+  [BOJ 1431 - 시리얼 번호](https://www.acmicpc.net/problem/1431) ( 추가 설명 있음 )
 
 ---
 ### 🔵 이진 탐색
