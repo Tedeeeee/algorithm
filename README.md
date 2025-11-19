@@ -63,6 +63,8 @@
   [BOJ 16435 - 스네이크 버드](https://www.acmicpc.net/problem/16435)
 - <img src="https://static.solved.ac/tier_small/8.svg" width="13px" />&nbsp;
   [BOJ 1431 - 시리얼 번호](https://www.acmicpc.net/problem/1431) ( 추가 설명 있음 )
+- <img src="https://static.solved.ac/tier_small/7.svg" width="13px" />&nbsp;
+  [BOJ 11652 - 카드](https://www.acmicpc.net/problem/11652) ( 추가 설명 있음 )
 
 ---
 ### 🔵 이진 탐색
