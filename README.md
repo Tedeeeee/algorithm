@@ -65,6 +65,8 @@
   [BOJ 1431 - 시리얼 번호](https://www.acmicpc.net/problem/1431) ( 추가 설명 있음 )
 - <img src="https://static.solved.ac/tier_small/7.svg" width="13px" />&nbsp;
   [BOJ 11652 - 카드](https://www.acmicpc.net/problem/11652) ( 추가 설명 있음 )
+- <img src="https://static.solved.ac/tier_small/6.svg" width="13px" />&nbsp;
+  [BOJ 10814 - 나이순 정렬](https://www.acmicpc.net/problem/10814) ( 객체 사용 )
 
 ---
 ### 🔵 이진 탐색
