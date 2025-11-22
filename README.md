@@ -41,6 +41,13 @@
 
 ---
 ### 🔵 큐
+> 큐(Queue)는 FIFO(First-In First-Out) 구조로  
+> 앞에서 꺼내고 뒤에 넣는 방식의 자료구조다.  
+> 덱(Deque)은 앞뒤 양쪽에서 삽입/삭제가 가능한 확장 구조로,  
+> 원형 이동(circular rotation) 같은 문제에 자주 활용된다.
+
+- <img src="https://static.solved.ac/tier_small/6.svg" width="13px" />&nbsp;
+  [BOJ 2346 - 풍선 터뜨리기](https://www.acmicpc.net/problem/2346) ( deque & 원형 리스트 구현 )
 
 ---
 ### 🔵 해시 (Hash) / 딕셔너리
@@ -68,7 +75,6 @@
 - <img src="https://static.solved.ac/tier_small/6.svg" width="13px" />&nbsp;
   [BOJ 10814 - 나이순 정렬](https://www.acmicpc.net/problem/10814) ( 객체 사용 )
 
-
 ---
 ### 🔵 이진 탐색
 
@@ -92,13 +98,7 @@
 
 ---
 ### 🟠 힙 / 우선순위 큐
-> 큐(Queue)는 FIFO(First-In First-Out) 구조로  
-> 앞에서 꺼내고 뒤에 넣는 방식의 자료구조다.  
-> 덱(Deque)은 앞뒤 양쪽에서 삽입/삭제가 가능한 확장 구조로,  
-> 원형 이동(circular rotation) 같은 문제에 자주 활용된다.
 
-- <img src="https://static.solved.ac/tier_small/6.svg" width="13px" />&nbsp;
-  [BOJ 2346 - 풍선 터뜨리기](https://www.acmicpc.net/problem/2346) ( 원형 리스트 구현 )
 
 ---
 ### 🟢 시뮬레이션 (Simulation)

@@ -3,6 +3,7 @@ package baekjoon;
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
+import java.util.ArrayDeque;
 import java.util.Arrays;
 import java.util.StringTokenizer;
 
@@ -23,7 +24,7 @@ public class Problem2346 {
             arr[i] = Integer.parseInt(st.nextToken());
         }
 
-        solveWithCircularArray(n, arr);
+        //solveWithCircularArray(n, arr);
         solveWithDeque(n, arr);
     }
 
@@ -77,8 +78,54 @@ public class Problem2346 {
     }
 
     private static void solveWithDeque(int n, int[] arr) {
+        ArrayDeque<Pointer> deque = new ArrayDeque<>();
 
+        for (int i = 0; i < n; i++) {
+            deque.offerLast(new Pointer(i, arr[i]));
+        }
+
+        StringBuilder sb = new StringBuilder();
+
+        while (!deque.isEmpty()) {
+            Pointer p = deque.pollFirst();
+            int nextMoveCount = p.value;
+
+            sb.append(p.index + 1).append(" ");
+
+            if (deque.isEmpty()) {
+                break;
+            }
+
+            // 양수
+            // 왼쪽의 값을 오른쪽으로 넣기
+            if (nextMoveCount > 0) {
+                for (int i = 0; i < nextMoveCount - 1; i++) {
+                    Pointer pointer = deque.pollFirst();
+                    deque.offerLast(pointer);
+                }
+            }
+
+            // 음수
+            // 오른쪽에 있는 값을 왼쪽으로 넣기
+            if (nextMoveCount < 0) {
+                int abs = Math.abs(nextMoveCount);
+                for (int i = 0; i < abs; i++) {
+                    Pointer pointer = deque.pollLast();
+                    deque.offerFirst(pointer);
+                }
+            }
+        }
+
+        System.out.println(sb);
     }
 
+    static class Pointer {
+        int index;
+        int value;
 
+        public Pointer(int index, int value) {
+            this.index = index;
+            this.value = value;
+        }
+    }
 }
