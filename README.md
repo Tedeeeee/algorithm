@@ -39,6 +39,8 @@
   [BOJ 1874 - 스택 수열](https://www.acmicpc.net/problem/1874)
 - <img src="https://static.solved.ac/tier_small/8.svg" width="13px" />&nbsp;
   [BOJ 1935 - 후위 표현식2](https://www.acmicpc.net/problem/1935)
+- <img src="https://static.solved.ac/tier_small/9.svg" width="13px" />&nbsp;
+  [BOJ 10799 - 쇠막대기](https://www.acmicpc.net/problem/10799)
 
 ---
 ### 🔵 큐
