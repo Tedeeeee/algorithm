@@ -23,8 +23,6 @@
 > - 문제에서 <u>**모든 조합을 확인해야 한다**</u>는 뉘앙스가 있을 때
 > - 탐색 대상의 크기가 작아서 **전체 탐색해도 시간 초과가 나지 않을 때**
 > - 최적화보다 정답을 찾는 게 중요할 때
->
-> 대표 문제 : [BOJ 2798 - 블랙잭](https://www.acmicpc.net/problem/2798)
 
 - <img src="https://static.solved.ac/tier_small/4.svg" width="13px" />&nbsp;
   [BOJ 2798 - 블랙잭](https://www.acmicpc.net/problem/2798)
@@ -36,8 +34,11 @@
 > 스택(Stack)은 **LIFO(Last-In First-Out)** 방식의 자료구조이다.  
 > 데이터를 위에서만 넣고(pop) 뺄 수 있으며,  
 > **괄호 검사, 되돌리기(Undo), DFS, 수식 계산** 등의 기본 원리로 사용된다.
+
 - <img src="https://static.solved.ac/tier_small/9.svg" width="13px" />&nbsp;
   [BOJ 1874 - 스택 수열](https://www.acmicpc.net/problem/1874)
+- <img src="https://static.solved.ac/tier_small/8.svg" width="13px" />&nbsp;
+  [BOJ 1935 - 후위 표현식2](https://www.acmicpc.net/problem/1935)
 
 ---
 ### 🔵 큐
