@@ -41,6 +41,8 @@
   [BOJ 1935 - 후위 표현식2](https://www.acmicpc.net/problem/1935)
 - <img src="https://static.solved.ac/tier_small/9.svg" width="13px" />&nbsp;
   [BOJ 10799 - 쇠막대기](https://www.acmicpc.net/problem/10799)
+- <img src="https://static.solved.ac/tier_small/11.svg" width="13px" />&nbsp;
+  [BOJ 2504 - 괄호의 값](https://www.acmicpc.net/problem/2504)
 
 ---
 ### 🔵 큐
