@@ -45,6 +45,8 @@
   [BOJ 2504 - 괄호의 값](https://www.acmicpc.net/problem/2504)
 - <img src="https://static.solved.ac/tier_small/11.svg" width="13px" />&nbsp;
   [BOJ 2493 - 탑](https://www.acmicpc.net/problem/2493) **(추가 설명 있음)**
+- <img src="https://static.solved.ac/tier_small/7.svg" width="13px" />&nbsp;
+  [BOJ 4949 - 균형잡힌 세상](https://www.acmicpc.net/problem/4949)
 
 ---
 ### 🔵 큐
