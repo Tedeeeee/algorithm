@@ -63,7 +63,8 @@
   [BOJ 1966 - 프린터 큐](https://www.acmicpc.net/problem/1966)
 - <img src="https://static.solved.ac/tier_small/8.svg" width="13px" />&nbsp;
   [BOJ 18115 - 카드 놓기](https://www.acmicpc.net/problem/18115)
-
+- <img src="https://static.solved.ac/tier_small/8.svg" width="13px" />&nbsp;
+  [BOJ 1021 - 회전하는 큐](https://www.acmicpc.net/problem/1021) (Deque 사용)
 ---
 ### 🔵 해시 (Hash) / 딕셔너리
 
