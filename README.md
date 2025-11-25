@@ -61,6 +61,8 @@
   [BOJ 2346 - 풍선 터뜨리기](https://www.acmicpc.net/problem/2346) ( deque & 원형 리스트 구현 )
 - <img src="https://static.solved.ac/tier_small/8.svg" width="13px" />&nbsp;
   [BOJ 1966 - 프린터 큐](https://www.acmicpc.net/problem/1966)
+- <img src="https://static.solved.ac/tier_small/8.svg" width="13px" />&nbsp;
+  [BOJ 18115 - 카드 놓기](https://www.acmicpc.net/problem/18115)
 
 ---
 ### 🔵 해시 (Hash) / 딕셔너리
