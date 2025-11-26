@@ -66,7 +66,12 @@
 - <img src="https://static.solved.ac/tier_small/8.svg" width="13px" />&nbsp;
   [BOJ 1021 - 회전하는 큐](https://www.acmicpc.net/problem/1021) (Deque 사용)
 ---
-### 🔵 해시 (Hash) / 딕셔너리
+### 🔵 맵 ( HashMap )
+> Key–Value 구조로 데이터를 저장하는 자료구조  
+> 특정 값의 존재 여부 확인이나 빈도(count) 관리에 매우 많이 사용된다.
+
+- <img src="https://static.solved.ac/tier_small/7.svg" width="13px" />&nbsp;
+  [BOJ 10816 - 숫자 카드2](https://www.acmicpc.net/problem/10816)
 
 ---
 ### 🔵 집합 (Set)
