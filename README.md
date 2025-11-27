@@ -145,6 +145,8 @@
   [BOJ 11725 - 트리의 부모 찾기](https://www.acmicpc.net/problem/11725)
 - <img src="https://static.solved.ac/tier_small/7.svg" width="13px" />&nbsp;
   [BOJ 9372 - 상근이의 여행](https://www.acmicpc.net/problem/9372) ( 트리의 성격을 묻는 문제 )
+- <img src="https://static.solved.ac/tier_small/10.svg" width="13px" />&nbsp;
+  [BOJ 20364 - 부동산 다툼](https://www.acmicpc.net/problem/20364) ( 추가 설명 있음 )
 
 ---
 ### 🟠 힙 / 우선순위 큐
