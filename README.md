@@ -143,6 +143,8 @@
 
 - <img src="https://static.solved.ac/tier_small/9.svg" width="13px" />&nbsp;
   [BOJ 11725 - 트리의 부모 찾기](https://www.acmicpc.net/problem/11725)
+- <img src="https://static.solved.ac/tier_small/7.svg" width="13px" />&nbsp;
+  [BOJ 9372 - 상근이의 여행](https://www.acmicpc.net/problem/9372) ( 트리의 성격을 묻는 문제 )
 
 ---
 ### 🟠 힙 / 우선순위 큐
