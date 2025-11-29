@@ -120,7 +120,18 @@
 ### 🔵 그리디
 
 ---
-### 🔵 그래프 탐색 (DFS / BFS)
+### 🔵 그래프 탐색 (DFS)
+> 한 방향으로 갈 수 있을 때까지 깊게 내려간 뒤,  
+> 더 이상 갈 수 없으면 이전 분기로 되돌아오는 탐색 방식이다.  
+>   
+> 주로 재귀 또는 스택으로 구현되며, 트리·그래프의 구조를 파악하거나  
+> **경로 존재 여부, 거리 누적, 백트래킹 문제**에 자주 사용된다.
+
+---
+### 🔵 그래프 탐색 (BFS)
+> 현재 노드에서 가까운 노드부터 차례대로 탐색하는 방식이다.
+> 
+> 큐(Queue)를 사용하여 구현하며, **최단 거리 탐색이나 레벨 개념이 중요한 문제**에서 주로 활용된다.
 
 ---
 ### 🔵 DFS / BFS 세부
@@ -149,6 +160,8 @@
   [BOJ 20364 - 부동산 다툼](https://www.acmicpc.net/problem/20364) ( 추가 설명 있음 )
 - <img src="https://static.solved.ac/tier_small/10.svg" width="13px" />&nbsp;
   [BOJ 1991 - 트리 순회](https://www.acmicpc.net/problem/1991)
+- <img src="https://static.solved.ac/tier_small/11.svg" width="13px" />&nbsp;
+  [BOJ 1240 - 노드사이의 거리](https://www.acmicpc.net/problem/1240)
 
 ---
 ### 🟠 힙 / 우선순위 큐
