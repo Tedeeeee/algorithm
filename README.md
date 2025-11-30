@@ -164,6 +164,9 @@
   [BOJ 1240 - 노드사이의 거리](https://www.acmicpc.net/problem/1240)
 - <img src="https://static.solved.ac/tier_small/12.svg" width="13px" />&nbsp;
   [BOJ 22856 - 트리 순회](https://www.acmicpc.net/problem/22856) ( 추가 설명 있음 )
+- <img src="https://static.solved.ac/tier_small/11.svg" width="13px" />&nbsp;
+  [BOJ 1068 - 트리](https://www.acmicpc.net/problem/1068) ( 다시 풀어봤으면 좋겠음 )
+
 
 ---
 ### 🟠 힙 / 우선순위 큐
