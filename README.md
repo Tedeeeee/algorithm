@@ -133,6 +133,9 @@
 > 
 > 큐(Queue)를 사용하여 구현하며, **최단 거리 탐색이나 레벨 개념이 중요한 문제**에서 주로 활용된다.
 
+- <img src="https://static.solved.ac/tier_small/10.svg" width="13px" />&nbsp;
+  [BOJ 1926 - 그림](https://www.acmicpc.net/problem/1926)
+
 ---
 ### 🔵 DFS / BFS 세부
 
