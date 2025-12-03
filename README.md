@@ -168,6 +168,9 @@
   [BOJ 1068 - 트리](https://www.acmicpc.net/problem/1068) ( 다시 풀어봤으면 좋겠음 )
 - <img src="https://static.solved.ac/tier_small/12.svg" width="13px" />&nbsp;
   [BOJ 20955 - 민서의 응급 수술](https://www.acmicpc.net/problem/20955) ( 다시 풀어봤으면 좋겠음 )
+- <img src="https://static.solved.ac/tier_small/12.svg" width="13px" />&nbsp;
+  [BOJ 4803 - 트리](https://www.acmicpc.net/problem/4803) ( 20955 와 흡사하지만 다름 )
+
 
 ---
 ### 🟠 힙 / 우선순위 큐
