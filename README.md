@@ -135,6 +135,8 @@
 
 - <img src="https://static.solved.ac/tier_small/10.svg" width="13px" />&nbsp;
   [BOJ 1926 - 그림](https://www.acmicpc.net/problem/1926)
+- <img src="https://static.solved.ac/tier_small/10.svg" width="13px" />&nbsp;
+  [BOJ 2178 - 미로 탐색](https://www.acmicpc.net/problem/2178)
 
 ---
 ### 🔵 DFS / BFS 세부
