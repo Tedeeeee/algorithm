@@ -74,6 +74,15 @@
   [BOJ 10816 - 숫자 카드2](https://www.acmicpc.net/problem/10816)
 
 ---
+### 🔵 셋 ( Set / HashSet )
+> **중복을 허용하지 않는 자료구조**  
+> 데이터의 **존재 여부 관리**에 최적화되어 있으며, 삽입·삭제·조회가 매우 빠르다.
+
+- <img src="https://static.solved.ac/tier_small/6.svg" width="13px" />&nbsp;
+  [BOJ 7785 - 회사에 있는 사람](https://www.acmicpc.net/problem/7785)
+
+---
+
 ### 🔵 집합 (Set)
 
 ---
