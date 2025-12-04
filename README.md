@@ -137,6 +137,8 @@
   [BOJ 1926 - 그림](https://www.acmicpc.net/problem/1926)
 - <img src="https://static.solved.ac/tier_small/10.svg" width="13px" />&nbsp;
   [BOJ 2178 - 미로 탐색](https://www.acmicpc.net/problem/2178)
+- <img src="https://static.solved.ac/tier_small/10.svg" width="13px" />&nbsp;
+  [BOJ 7576 - 토마토](https://www.acmicpc.net/problem/7576)
 
 ---
 ### 🔵 DFS / BFS 세부
@@ -175,7 +177,6 @@
   [BOJ 20955 - 민서의 응급 수술](https://www.acmicpc.net/problem/20955) ( 다시 풀어봤으면 좋겠음 )
 - <img src="https://static.solved.ac/tier_small/12.svg" width="13px" />&nbsp;
   [BOJ 4803 - 트리](https://www.acmicpc.net/problem/4803) ( 20955 와 흡사하지만 다름 )
-
 
 ---
 ### 🟠 힙 / 우선순위 큐
