@@ -152,6 +152,8 @@
   [BOJ 1012 - 유기농 배추](https://www.acmicpc.net/problem/1012) (DFS로도 풀 수 있음)
 - <img src="https://static.solved.ac/tier_small/10.svg" width="13px" />&nbsp;
   [BOJ 1697 - 숨바꼭질](https://www.acmicpc.net/problem/1697)
+- <img src="https://static.solved.ac/tier_small/10.svg" width="13px" />&nbsp;
+  [BOJ 7562 - 나이트의 이동](https://www.acmicpc.net/problem/7562)
 
 ---
 ### 🟠 백트래킹
