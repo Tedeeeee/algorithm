@@ -150,9 +150,8 @@
   [BOJ 7576 - 토마토](https://www.acmicpc.net/problem/7576)
 - <img src="https://static.solved.ac/tier_small/9.svg" width="13px" />&nbsp;
   [BOJ 1012 - 유기농 배추](https://www.acmicpc.net/problem/1012) (DFS로도 풀 수 있음)
-
----
-### 🔵 DFS / BFS 세부
+- <img src="https://static.solved.ac/tier_small/10.svg" width="13px" />&nbsp;
+  [BOJ 1697 - 숨바꼭질](https://www.acmicpc.net/problem/1697)
 
 ---
 ### 🟠 백트래킹
