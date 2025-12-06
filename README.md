@@ -154,6 +154,8 @@
   [BOJ 1697 - 숨바꼭질](https://www.acmicpc.net/problem/1697)
 - <img src="https://static.solved.ac/tier_small/10.svg" width="13px" />&nbsp;
   [BOJ 7562 - 나이트의 이동](https://www.acmicpc.net/problem/7562)
+- <img src="https://static.solved.ac/tier_small/13.svg" width="13px" />&nbsp;
+  [BOJ 4179 - 불!](https://www.acmicpc.net/problem/4179) (2개의 BFS가 필요했던 문제)
 
 ---
 ### 🟠 백트래킹
