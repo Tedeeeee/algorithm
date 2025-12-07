@@ -156,6 +156,8 @@
   [BOJ 7562 - 나이트의 이동](https://www.acmicpc.net/problem/7562)
 - <img src="https://static.solved.ac/tier_small/13.svg" width="13px" />&nbsp;
   [BOJ 4179 - 불!](https://www.acmicpc.net/problem/4179) (2개의 BFS가 필요했던 문제)
+- <img src="https://static.solved.ac/tier_small/11.svg" width="13px" />&nbsp;
+  [BOJ 10026 - 적록색약](https://www.acmicpc.net/problem/10026) (2개의 BFS가 필요했던 문제)
 
 ---
 ### 🟠 백트래킹
