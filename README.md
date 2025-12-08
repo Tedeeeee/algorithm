@@ -158,6 +158,8 @@
   [BOJ 4179 - 불!](https://www.acmicpc.net/problem/4179) (2개의 BFS가 필요했던 문제)
 - <img src="https://static.solved.ac/tier_small/11.svg" width="13px" />&nbsp;
   [BOJ 10026 - 적록색약](https://www.acmicpc.net/problem/10026) (2개의 BFS가 필요했던 문제)
+- <img src="https://static.solved.ac/tier_small/10.svg" width="13px" />&nbsp;
+  [BOJ 2468 - 안전 영역](https://www.acmicpc.net/problem/2468) (2개의 BFS가 필요했던 문제)
 
 ---
 ### 🟠 백트래킹
