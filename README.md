@@ -160,6 +160,8 @@
   [BOJ 10026 - 적록색약](https://www.acmicpc.net/problem/10026) (2개의 BFS가 필요했던 문제)
 - <img src="https://static.solved.ac/tier_small/10.svg" width="13px" />&nbsp;
   [BOJ 2468 - 안전 영역](https://www.acmicpc.net/problem/2468) (2개의 BFS가 필요했던 문제)
+- <img src="https://static.solved.ac/tier_small/11.svg" width="13px" />&nbsp;
+  [BOJ 6593 - 상범 빌딩](https://www.acmicpc.net/problem/6593) (3차원 배열을 사용한 풀이)
 
 ---
 ### 🟠 백트래킹
