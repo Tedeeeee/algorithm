@@ -164,7 +164,8 @@
   [BOJ 6593 - 상범 빌딩](https://www.acmicpc.net/problem/6593) (3차원 배열을 사용한 풀이)
 - <img src="https://static.solved.ac/tier_small/10.svg" width="13px" />&nbsp;
   [BOJ 2667 - 단지번호 붙이기](https://www.acmicpc.net/problem/2667)
-
+- <img src="https://static.solved.ac/tier_small/10.svg" width="13px" />&nbsp;
+  [BOJ 5014 - 스타트링크](https://www.acmicpc.net/problem/5014)
 
 ---
 ### 🟠 백트래킹
