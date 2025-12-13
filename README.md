@@ -146,6 +146,9 @@
 > 주로 재귀 또는 스택으로 구현되며, 트리·그래프의 구조를 파악하거나  
 > **경로 존재 여부, 거리 누적, 백트래킹 문제**에 자주 사용된다.
 
+- <img src="https://static.solved.ac/tier_small/9.svg" width="13px" />&nbsp;
+  [BOJ 1260 - DFS 와 BFS](https://www.acmicpc.net/problem/1260) (BFS문제랑 같이 있음)
+
 ---
 ### 🔵 그래프 탐색 (BFS)
 > 현재 노드에서 가까운 노드부터 차례대로 탐색하는 방식이다.
