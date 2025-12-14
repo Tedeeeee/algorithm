@@ -10,9 +10,6 @@ import java.util.StringTokenizer;
 //  문제 : BOJ 1920 - 수 찾기
 //  날짜 : 2025-12-14
 // -------------------------------
-//  why?       : 기준 배열을 정렬한 뒤, 각 질문을 O(log N)으로 탐색해야 해서
-//  시간복잡도  : O(N log N + M log N)
-//  실수       : 중앙값 계산하는 방법을 몰랐음
 public class Problem1920 {
 
     public static void main(String[] args) throws IOException {
