@@ -116,9 +116,10 @@ YES / NO가 명확해야
 (※ **직접 푼 문제만 작성**)
 
 ### <img src="https://static.solved.ac/tier_small/10.svg" width="13px" />&nbsp;[BOJ 1920 - 수 찾기](https://www.acmicpc.net/problem/1920)
-- 왜 이진 탐색을 썼는지
-- 시간복잡도
-- 실수 포인트 1개
+### <img src="https://static.solved.ac/tier_small/9.svg" width="13px" />&nbsp;[BOJ 1654 - 랜선자르기](https://www.acmicpc.net/problem/1654)
+- 왜 이진 탐색을 썼는지 : 자를 수 있는 길이를 하나씩 확인하면 비효율적이라, 조건이 단조적으로 변하는 길이를 기준으로 이진 탐색을 사용한다
+- 시간복잡도 : O(n log maxLen)
+- 실수 포인트 1개 : 랜선 갯수의 합이 int 범위를 초과할 수 있어 long 을 사용해야 한다
 
 ---
 
