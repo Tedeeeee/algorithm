@@ -121,6 +121,11 @@ YES / NO가 명확해야
 - 시간복잡도 : O(n log maxLen)
 - 실수 포인트 1개 : 랜선 갯수의 합이 int 범위를 초과할 수 있어 long 을 사용해야 한다
 
+### <img src="https://static.solved.ac/tier_small/6.svg" width="13px" />&nbsp;[BOJ 10815 - 숫자 카드](https://www.acmicpc.net/problem/10815)
+- 왜 이진 탐색을 썼는지 : 카드의 갯수가 O(n2)으로 해결할 수 없기에 이분탐색을 사용
+- 시간복잡도 : O(n log n)
+- 실수 포인트 1개 : X
+
 ---
 
 ## 한 줄 요약
