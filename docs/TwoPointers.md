@@ -140,10 +140,10 @@ NO → 다른 알고리즘 고민
 
 ### [leetCode 11 - Container With Most Water](https://leetcode.com/problems/container-with-most-water/)
 
-- 왜 투 포인터를 선택했는지
-- 시간복잡도
-- 실수 포인트 1개
-
+### <img src="https://static.solved.ac/tier_small/7.svg" width="13px" />&nbsp;[BOJ 1822 - 숫자 카드](https://www.acmicpc.net/problem/1822)
+- 왜 ? : 특정 문자를 기준으로 배열을 검색하는건데 원소의 갯수가 50만개가 넘어서 2중 for문이면 O(n2) 이라 무조건 시간 초과
+- 시간복잡도 : O(N log N)
+- 생각 포인트 : 굳이 투포인터를 사용할 필요가 없다...그냥 HashSet 사용해도됨
 ---
 
 ## 한 줄 요약
