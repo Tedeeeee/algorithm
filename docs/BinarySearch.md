@@ -126,6 +126,11 @@ YES / NO가 명확해야
 - 시간복잡도 : O(n log n)
 - 실수 포인트 1개 : X
 
+### <img src="https://static.solved.ac/tier_small/9.svg" width="13px" />&nbsp;[BOJ 2805 - 나무 자르기](https://www.acmicpc.net/problem/2805)
+- 왜 이분 탐색을 썼는지 : 목표하는 최대 나무 길이는 20억이 넘고 나무 갯수는 100만개가 넘기에 2중for문은 문제가 될 수 있음 
+- 시간복잡도 : O(n log n)
+- 실수 포인트 1개 : 구하고자 하는 나무의 총 길이가 20억이 넘기에 더하는 과정에 int 범위를 넘어설수 있음 그래서 long 을 answer값으로 사용해야 하는데 그렇게 못함
+
 ---
 
 ## 한 줄 요약
