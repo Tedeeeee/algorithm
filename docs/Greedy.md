@@ -121,6 +121,11 @@
 - 시간복잡도
 - 실수 포인트 1개
 
+### <img src="https://static.solved.ac/tier_small/7.svg" width="13px" />&nbsp;[BOJ 2217 - 로프](https://www.acmicpc.net/problem/2217)
+
+- 시간복잡도 : O(n log n)
+- 중요 포인트 : 배열을 정리해서 가장 작은 무게로 가장 많은 로프를 사용하면서 시작하는게 포인트! <br/> 이때 더 작은 로프의 갯수로 더 무거운 무게를 들 수 있을수 있기 때문에 max() 를 통해 가장 큰 값을 확인해야 한다
+
 ---
 
 ## 한 줄 요약
